@@ -7,6 +7,8 @@ export default function Encabezado() {
             <Link href="/">Empresa</Link>
           </div>
           <nav className="flex gap-5">
+            <Link href="/">Inicio</Link>
+            <Link href="/servicios">Servicios</Link>
             <Link href="/acerca-de">Acerca De</Link>
           </nav>
         </header>

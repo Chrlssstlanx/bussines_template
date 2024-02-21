@@ -7,7 +7,7 @@ export default function Home() {
         </div>
         <p>Texto sobre las actividades de la Empresa.</p>
       </section>
-      <section className="mt-10 mb-20">
+      <section className="mt-10 mb-20 h-[80vh]">
         <div className="w-[100%] flex flex-wrap gap-5 justify-center">
           <div className="w-[90%] sm:w-[80%] md:w-[22%] h-[200px] bg-slate-900 rounded-[10px]"></div>
           <div className="w-[90%] sm:w-[80%] md:w-[22%] h-[200px] bg-slate-900 rounded-[10px]"></div>

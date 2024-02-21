@@ -1,6 +1,5 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Link from "next/link";
 import Encabezado from "@/components/encabezado";
 import PiePagina from "@/components/pie-pagina";
 
